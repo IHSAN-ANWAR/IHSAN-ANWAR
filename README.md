@@ -58,9 +58,8 @@
 ---
 
 ### 🚀 Goals & Interests
-- Build **real-world apps** with React & Next.js  
-- Contribute to **open-source projects**  
+- Build **real-world apps** with React & Next.js   
 - Sharpen **backend & database** development skills  
 - Land a **frontend / full-stack internship** to gain industry experience  
-- 📈 Long-term goal: Become a **Senior Full-Stack Software Developer**
+- 📈 Long-term goal: Become a ** Full-Stack Software Developer**
 
