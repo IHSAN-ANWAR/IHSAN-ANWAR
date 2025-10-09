@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+###  💫 About Me
 - 🎓 BS Computer Science student at Virtual University of Pakistan  
 - 💻 Passionate about building **clean & responsive** user interfaces  
 - ⚛️ Working with React / Next.js / Tailwind CSS  
