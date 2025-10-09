@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://main-portfolio-seven-wine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -39,11 +39,6 @@
 
 ---
 
-## 🎓 Certifications
-- 🎓 Meta Front-End Developer — *Coursera*  
-- 🎓 IELTS Preparation — *University of California, Irvine (Coursera)*  
-
----
 
 ### 🧠 Core Tech Stack
 
@@ -69,11 +64,13 @@
 <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 
 </div>
-
-
-<h3 align="center">👽 On a Mission.</h3>
+---
+## 🎓 Certifications
+- 🎓 Meta Front-End Developer — *Coursera*  
+- 🎓 IELTS Preparation — *University of California, Irvine (Coursera)*  
 
 ---
+<h3 align="center">👽 On a Mission.</h3>
 
 ### 🔥 Goals 
 - Land a **frontend / full-stack internship** to gain industry experience  
