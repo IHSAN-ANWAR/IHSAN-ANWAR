@@ -1,16 +1,17 @@
-<!-- Profile README for Ihsan Anwar -->
+
 
 <h1 align="center"> I'm Ihsan Anwar</h1>
 <h3 align="center">🚀 Frontend Developer | React Enthusiast | Always Learning</h3>
 
 ---
 
-###  💫 About Me
+###  ⚡ About Me
 - 🎓 BS Computer Science student at Virtual University of Pakistan  
 - 💻 Passionate about building **clean & responsive** user interfaces  
 - ⚛️ Working with React / Next.js / Tailwind CSS  
 - 🛠️ Exploring more in full-stack JavaScript  
-- 🏋️ One day or day one — discipline never negotiates 💪
+- 🔥 discipline never negotiates
+- 🚀 Day one or one day — your choice. 
  
 
 ---
@@ -57,7 +58,10 @@
 
 ---
 
-### 🚀 Goals & Interests
+<h3 align="center">🚀 On a mission to become a Senior Full Stack Developer — built by discipline.</h3>
+
+
+### 🔥 Goals & Interests
 - Build **real-world apps** with React & Next.js   
 - Sharpen **backend & database** development skills  
 - Land a **frontend / full-stack internship** to gain industry experience  
