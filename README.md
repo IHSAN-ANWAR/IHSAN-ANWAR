@@ -1,18 +1,21 @@
+<h1 align="center">I'm Ihsan Anwar</h1>
+<h3 align="center">👽🚀 Frontend Developer | React Enthusiast | Always Learning</h3>
 
-
-<h1 align="center"> I'm Ihsan Anwar</h1>
-<h3 align="center">🚀 Frontend Developer | React Enthusiast | Always Learning</h3>
+<p align="center">
+  <a href="https://main-portfolio-seven-wine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
-###  ⚡ About Me
-- 🎓 BS Computer Science student at Virtual University of Pakistan  
+### ⚡ About Me
+- 🎓 BS Computer Science student at **Virtual University of Pakistan**  
 - 💻 Passionate about building **clean & responsive** user interfaces  
-- ⚛️ Working with React / Next.js / Tailwind CSS  
-- 🛠️ Exploring more in full-stack JavaScript  
-- 🔥 discipline never negotiates
-- 🚀 Day one or one day — your choice. 
- 
+- ⚛️ Working with **React / Next.js / Tailwind CSS**  
+- 🛠️ Exploring more in **full-stack JavaScript**  
+- 🔥 Discipline never negotiates  
+- 🚀 *Day one or one day — your choice.*
 
 ---
 
@@ -45,7 +48,16 @@
   <a href="https://github.com/IHSAN-ANWAR" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://main-portfolio-seven-wine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
+---
+
+## 🎓 Certifications
+- 🎓 Meta Front-End Developer — *Coursera*  
+- 🎓 IELTS Preparation — *University of California, Irvine (Coursera)*  
 
 ---
 
@@ -58,12 +70,12 @@
 
 ---
 
-<h3 align="center">🚀 On a mission to become a Senior Full Stack Developer — built by discipline.</h3>
+<h3 align="center">👽 On a Mission.</h3>
 
+---
 
-### 🔥 Goals & Interests
+### 🔥 Goals 
 - Build **real-world apps** with React & Next.js   
 - Sharpen **backend & database** development skills  
 - Land a **frontend / full-stack internship** to gain industry experience  
-- 📈 Long-term goal: Become a ** Full-Stack Software Developer**
-
+- 📈 Long-term goal: Become a **Senior Full-Stack Software Developer**
