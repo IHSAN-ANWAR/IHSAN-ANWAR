@@ -18,26 +18,6 @@
 - 🚀 *Day one or one day — your choice.*
 
 ---
-### 🛠️ Tech Stack & Tools  
-
-<div align="center">
-
-#### ⚙️ Frontend  
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&padding=10" alt="HTML5"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&padding=10" alt="CSS3"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black&padding=10" alt="JavaScript"/></a>
-<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&padding=10" alt="React"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&padding=10" alt="Next.js"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&padding=10" alt="Tailwind CSS"/></a>
-
----
-
-#### 🧰 Tools & Platforms  
-<a href="#"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&padding=10" alt="Git"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&padding=10" alt="GitHub"/></a>
-<a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&padding=10" alt="VS Code"/></a>
-
-</div>
 
 
 ### 🌐 Connect With Me
