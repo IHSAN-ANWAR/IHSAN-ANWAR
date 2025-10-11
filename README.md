@@ -78,4 +78,4 @@
 - Land a **frontend / full-stack internship** to gain industry experience  
 - Build **real-world apps** with React & Next.js   
 - Sharpen **backend & database** development skills  
-- 📈 Long-term goal: Become a **Senior Full-Stack Software Developer**
+
