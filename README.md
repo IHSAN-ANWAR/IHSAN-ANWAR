@@ -75,7 +75,6 @@
 <h3 align="center">👽 On a Mission.</h3>
 
 ### 🔥 Goals 
-- Land a **frontend / full-stack internship** to gain industry experience  
 - Build **real-world apps** with React & Next.js   
 - Sharpen **backend & database** development skills  
 
