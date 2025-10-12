@@ -1,4 +1,4 @@
-<!-- 💫 Final Cyber-3D GitHub Profile README for Ihsan Anwar -->
+
 
 <div align="center">
 
@@ -80,12 +80,6 @@
 
 ---
 
-<div align="center">
-
-### 🐍 My Contribution Snake  
-![GitHub Snake Animation](https://raw.githubusercontent.com/IHSAN-ANWAR/IHSAN-ANWAR/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
