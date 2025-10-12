@@ -1,80 +1,115 @@
-<h1 align="center">I'm Ihsan Anwar</h1>
-<h3 align="center">🚀 Frontend Developer | React Enthusiast | Always Learning</h3>
-
-<p align="center">
-  <a href="https://main-portfolio-seven-wine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-### ⚡ About Me
-- 🎓 BS Computer Science student at **Virtual University of Pakistan.**  
-- 💻 Passionate about building **clean & responsive** user interfaces.  
-- ⚛️ Working with **React / Next.js / Tailwind CSS.**  
-- 🛠️ Exploring more in **full-stack JavaScript.**  
-- 🔥 Discipline never negotiates. 
-- 🚀 *Day one or one day — your choice.*
-
----
-
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ihsan-anwar-243964353/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ihsan.anwar4321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/IHSAN-ANWAR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://main-portfolio-seven-wine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-
-### 🧠 Core Tech Stack
+<!-- 💫 Modern 3D Cyber-Style GitHub Profile README for Ihsan Anwar -->
 
 <div align="center">
 
-#### 🚀 Main Focus  
-<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
-<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
-
----
-
-#### 💻 Frontend Essentials  
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-
----
-
-#### 🧰 Tools & Platforms  
-<a href="#"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=I'm+Ihsan+Anwar;🚀+Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+Lover;Always+Learning+%F0%9F%8C%B1" alt="Typing Animation" />
 
 </div>
 
 ---
----
-## 🎓 Certifications
-- 🎓 Meta Front-End Developer — *Coursera*  
-- 🎓 IELTS Preparation — *University of California, Irvine (Coursera)*  
+
+<div align="center" style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.05); border-radius: 20px; padding: 15px;">
+
+<a href="https://main-portfolio-seven-wine.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:ihsan.anwar4321@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ihsan-anwar-243964353/" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/IHSAN-ANWAR" target="_blank">
+  <img src="https://img.shields.io/badge/🖤_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
-<h3 align="center">👽 On a Mission.</h3>
 
-### 🔥 Goals 
-- Build **real-world apps** with React & Next.js   
-- Sharpen **backend & database** development skills  
+## ⚡ About Me
 
+> 💬 “Discipline never negotiates.”  
+> 🚀 *Day one or one day — your choice.*
+
+- 🎓 BSCS student at **Virtual University of Pakistan**  
+- 💻 Passionate about **clean, responsive, and modern UIs**  
+- ⚛️ Focused on **React**, **Next.js**, and **Tailwind CSS**  
+- 🧠 Exploring **full-stack JavaScript** and **modern workflows**  
+
+---
+
+## 🧠 Tech Universe
+
+<div align="center">
+
+### 🚀 Main Focus  
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" height="65" />
+
+### 💻 Frontend Essentials  
+<img src="https://skillicons.dev/icons?i=html,css,js" height="65" />
+
+### 🧰 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="65" />
+
+</div>
+
+---
+
+## 🧾 Certifications
+- 🎓 **Meta Front-End Developer** — *Coursera*  
+- 🎓 **IELTS Preparation** — *University of California, Irvine (Coursera)*  
+
+---
+
+## 🔥 Goals
+- Build **real-world apps** with **React & Next.js**  
+- Strengthen **backend & database** fundamentals  
+- Create **portfolio-grade projects** that *stand out visually*  
+
+---
+
+<div align="center">
+
+### ⚡ GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=IHSAN-ANWAR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHSAN-ANWAR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 My Contribution Snake  
+![snake gif](https://github.com/IHSAN-ANWAR/IHSAN-ANWAR/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👁️ Visitor Counter  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IHSAN-ANWAR)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/IHSAN-ANWAR/IHSAN-ANWAR/assets/yourimage.gif" width="500" alt="3D Animation" />
+</div>
+
+---
+
+<h3 align="center">👽 On a Mission to Create. Build. Evolve.</h3>
+
+---
+
+<div align="center">
+
+✨ *Designed with passion by [Ihsan Anwar](https://main-portfolio-seven-wine.vercel.app/)* ✨
+
+</div>
