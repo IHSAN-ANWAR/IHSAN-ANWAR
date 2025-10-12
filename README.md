@@ -1,94 +1,144 @@
-<!-- ───────────────  DARK-MODE ONLY  ─────────────── -->
-<!--    If you see this in light-mode, your retina    -->
-<!--    will file for unemployment.                   -->
-
-<h1 align="center">
-  <picture>
-    <source srcset="https://readme-typing-svg.herokuapp.com?font=BlockBerthold&size=60&duration=1&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=FRONTEND+ALCHEMIST;CODE+ON+FIRE;REALITY+RENDERING;PIXEL+SHAMAN" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=BlockBerthold&size=60&duration=1&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=FRONTEND+ALCHEMIST;CODE+ON+FIRE;REALITY+RENDERING;PIXEL+SHAMAN" />
-  </picture>
-</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=&fontSize=0" />
-</p>
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║  D A R K - M O D E   O N L Y    |    L I G H T   W I L L   B U R N   ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-![Insanity Status](https://img.shields.io/badge/insanity-147%25-ff00ff?style=for-the-badge&labelColor=0d1117)
-![Reality Distortion](https://img.shields.io/badge/reality-bent-00ffcc?style=for-the-badge&labelColor=0d1117)
-![No Sleep](https://img.shields.io/badge/sleep-deprecated-ff5500?style=for-the-badge&labelColor=0d1117)
-![Powered By](https://img.shields.io/badge/powered-coffee%20%26%20chaos-9cf?style=for-the-badge&labelColor=0d1117)
+<!-- =====  GLITCH-TITLE  ===== -->
+<img src="https://readme-glitch.vercel.app/api?text=IHSAИ_AИWAR&nbsp;🜲&color=00ffff&bg=0d1117&height=80&fontSize=70&font=Orbitron&glitch=1" alt="glitch title" />
+
+<!-- =====  SUB-TITLE WITH TYPING  ===== -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2500&pause=800&color=00ffff&center=true&vCenter=true&width=700&lines=Frontend+Alchemist;React+⚛️+Next.js+▲+Tailwind+🌊;Reality+Rendering+in+Progress...;Always+Learning+🌱+Always+Building+🔥" alt="Typing sub" />
 
 </div>
 
-<!-- ───────  3D GLITCH AVATAR  ─────── -->
+---
+
+<!-- =====  QUICK-ACCESS BADGES WITH HOVER BLUR  ===== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/avatar.gif" />
-    <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/avatar.gif" width="256" alt="3D glitch avatar spinning in hyperspace" />
-  </picture>
+
+[![Portfolio](https://img.shields.io/badge/🏰_PORTFOLIO-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=00ffff)](https://main-portfolio-seven-wine.vercel.app/)
+[![Email](https://img.shields.io/badge/📡_EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ff4790)](mailto:ihsan.anwar4321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/👾_LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/ihsan-anwar-243964353/)
+[![GitHub](https://img.shields.io/badge/🕳️_GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/IHSAN-ANWAR)
+
 </div>
 
-<!-- ───────  MATRIX RAIN  ─────── -->
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/matrix-rain.svg" />
-</p>
+---
 
-<!-- ───────  TECH STACK ON STEROIDS  ─────── -->
-<h2 align="center">⚡ TECH STACK FROM THE YEAR 3030 ⚡</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,next,nuxt,tailwind,threejs,webgl,gsap,nodejs,deno,vite,webpack,graphql,supabase,vercel&perline=9" />
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React<br><sub>+ Suspense</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next" />
-      <br>Next.js<br><sub>+ Edge</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three" />
-      <br>Three.js<br><sub>+ WebXR</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind<br><sub>+ JIT</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- ───────  CRAZY STATS  ─────── -->
-<h2 align="center">📊 QUANTUM METRICS</h2>
-
+<!-- =====  3-D FLOATING AVATAR (WEBGL)  ===== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffcc&icon_color=ff5500" />
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffcc&icon_color=ff5500" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=ff5500&currStreakNum=00ffcc&sideNums=ffffff" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=ff5500&currStreakNum=00ffcc&sideNums=ffffff" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IHSAN-ANWAR/IHSAN-ANWAR/blob/main/avatar-3d-loop.gif" />
+    <img src="https://github.com/IHSAN-ANWAR/IHSAN-ANWAR/blob/main/avatar-3d-loop.gif" width="340" alt="3-D avatar floating in neon space" />
   </picture>
 </div>
 
-<!-- ───────  HOLOGRAPHIC PROJECTS  ─────── -->
-<h2 align="center">🌀 HOLOGRAPHIC SHOWCASE</h2>
+---
+
+<!-- =====  NEON DIVIDER  ===== -->
+<img src="https://capsule-render.vercel.app/api?type=neon&height=8&section=divider&fontSize=0&color=00ffff" />
+
+<!-- =====  ABOUT ME WITH GLOW TEXT  ===== -->
+## <div align="center"> ⚛️ About Me <span style="color:#00ffff;text-shadow:0 0 8px">// _root.ihsan</span> </div>
+
+> <span style="font-family: Share Tech Mono; color: #ff4790; text-shadow: 0 0 6px;">“Discipline never negotiates.”</span>  
+> 🚀 *Day one or one day — your choice.*
+
+- 🎓 BSCS student @ **Virtual University of Pakistan**
+- ⚡ Building **ultra-smooth 60 fps** UIs with React & Next.js
+- 🧪 Experimenting with **WebGL, Three.js, Framer-Motion**
+- 🌱 Currently **deep-diving backend** (Node, Prisma, PostgreSQL)
+
+---
+
+<!-- =====  TECH CRYSTALS (HOVER = PULSE)  ===== -->
+## <div align="center"> 🪐 Tech Constellation </div>
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/quantum-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=quantum-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffcc&icon_color=ff5500" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/neon-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=neon-maze&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffcc&icon_color=ff5500" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" style="filter: drop-shadow(0 0 6px #00ffff);">
+        <br><sub>Next.js</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="65" style="filter: drop-shadow(0 0 6px #61dafb);">
+        <br><sub>React</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" style="filter: drop-shadow(0 0 6px #38bdf8);">
+        <br><sub>Tailwind</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=threejs" width="65" style="filter: drop-shadow(0 0 6px #ff4790);">
+        <br><sub>Three.js</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vercel" width="65" style="filter: drop-shadow(0 0 6px #fff);">
+        <br><sub>Vercel</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- ───────  INTERACTIVE ASCII  ─────── -->
-<details align="center">
-  <summary>CLICK TO ENTER THE VOID</summary>
+---
+
+<!-- =====  CERTIFICATIONS WITH BADGES  ===== -->
+## <div align="center"> 🏅 Certifications </div>
+
+<div align="center">
+
+![Meta Front-End](https://img.shields.io/badge/Meta-Front--End%20Developer-066eff?style=flat-square&logo=coursera&logoColor=white)
+![IELTS](https://img.shields.io/badge/IELTS-Preparation-ff4790?style=flat-square&logo=coursera&logoColor=white)
+
+</div>
+
+---
+
+<!-- =====  REACTIVE GITHUB STATS  ===== -->
+## <div align="center"> 📊 Quantum Metrics </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IHSAN-ANWAR&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff4790&text_color=ffffff" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=IHSAN-ANWAR&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff4790&text_color=ffffff" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=IHSAN-ANWAR&theme=radical&hide_border=true&background=0d1117&ring=00ffff&fire=ff4790&currStreakNum=ffffff" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IHSAN-ANWAR&theme=radical&hide_border=true&background=0d1117&ring=00ffff&fire=ff4790&currStreakNum=ffffff" />
+  </picture>
+</div>
+
+---
+
+<!-- =====  KONAMI EASTER EGG (hidden until ↑↑↓↓←→←→BA)  ===== -->
+<div id="konami" style="display:none" align="center">
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="400" />
+  <br><sub style="color:#00ffff">You found the glitch portal — welcome to the back-end.</sub>
+</div>
+
+<script>
+/* Vanilla JS Konami code listener */
+const konami="3838404037393739666513";let keys="";document.addEventListener("keydown",e=>{keys+=e.keyCode;if(keys===konami){document.getElementById("konami").style.display="block";keys="";}});
+</script>
+
+---
+
+<!-- =====  VISITOR COUNTER WITH GLOW  ===== -->
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IHSAN-ANWAR&style=flat-square&color=00ffff&title=Visitors&titleColor=ffffff)
+
+</div>
+
+---
+
+<!-- =====  FOOTER WITH NEON  ===== -->
+<h4 align="center">
+  <span style="color:#ff4790;text-shadow:0 0 8px">Keep evolving.</span>  
+  <br>
+  <a href="https://main-portfolio-seven-wine.vercel.app/" style="text-decoration:none;color:#00ffff">🜲 Ihsan Anwar</a>
+</h4>
+
+<!-- =====  END OF INSANITY  ===== -->
