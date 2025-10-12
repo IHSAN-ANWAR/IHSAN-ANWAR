@@ -1,10 +1,4 @@
-
-
-
-
 <div align="center">
-
-
 
 <!-- =====  TYPING SUB  ===== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&pause=800&color=00ffff&center=true&vCenter=true&width=700&lines=Frontend+Alchemist;React+⚛️+Next.js+▲+Tailwind+🌊;Always+Learning+🌱+Always+Building+🔥" alt="Typing">
@@ -31,8 +25,8 @@
 
 - 🎓 BSCS student @ **Virtual University of Pakistan**  
 - ⚡ Crafting **60 fps** UIs with React & Next.js  
--  🧪 Animating with **Framer Motion** + **Next.js** 
-- 🌱 Currently **levelling up backend** 
+- 🧪 Animating with **Framer Motion** + **Next.js**  
+- 🌱 Currently **levelling up backend**  
 
 ---
 
@@ -45,6 +39,21 @@
 | `▲` | `⚛️` | `🌊` | `🪄` | `⚡` |
 
 </div>
+
+---
+
+## <div align="center"> 🧰 Core Skills </div>
+
+| **Essential** | **Clear** |
+|---------------|-----------|
+| **HTML5** | Semantic markup, accessibility, SEO basics |
+| **CSS3** | Flexbox, Grid, custom properties, media queries |
+| **JavaScript (ES6+)** | Promises, async/await, destructuring, modules |
+| **React 18** | Hooks, Context, Suspense, React Router |
+| **Next.js 14** | App Router, ISR, SSR, SSG, API routes |
+| **Tailwind CSS** | Utility-first workflow, JIT mode, dark-mode |
+| **Framer Motion** | Gestures, page transitions, scroll-triggered animations |
+| **Vercel** | Zero-config deploys, preview URLs, env vars |
 
 ---
 
