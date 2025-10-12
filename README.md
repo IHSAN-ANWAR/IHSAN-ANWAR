@@ -1,8 +1,8 @@
-<!-- 💫 Modern 3D Cyber-Style GitHub Profile README for Ihsan Anwar -->
+<!-- 💫 Final Cyber-3D GitHub Profile README for Ihsan Anwar -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=I'm+Ihsan+Anwar;🚀+Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+Lover;Always+Learning+%F0%9F%8C%B1" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=I'm+Ihsan+Anwar;🚀+Frontend+Developer;React+%7C+Next.js+%7C+Tailwind;Always+Learning+%F0%9F%8C%B1" alt="Typing Animation" />
 
 </div>
 
@@ -35,7 +35,7 @@
 - 🎓 BSCS student at **Virtual University of Pakistan**  
 - 💻 Passionate about **clean, responsive, and modern UIs**  
 - ⚛️ Focused on **React**, **Next.js**, and **Tailwind CSS**  
-- 🧠 Exploring **full-stack JavaScript** and **modern workflows**  
+- 🧠 Exploring **full-stack JavaScript** and **modern workflows**
 
 ---
 
@@ -83,7 +83,7 @@
 <div align="center">
 
 ### 🐍 My Contribution Snake  
-![snake gif](https://github.com/IHSAN-ANWAR/IHSAN-ANWAR/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/IHSAN-ANWAR/IHSAN-ANWAR/output/github-contribution-grid-snake.svg)
 
 </div>
 
