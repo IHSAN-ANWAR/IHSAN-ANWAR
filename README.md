@@ -7,8 +7,6 @@
 <!-- =====  GLITCH-TITLE  ===== -->
 <img src="https://readme-glitch.vercel.app/api?text=IHSAИ_AИWAR&nbsp;🜲&color=00ffff&bg=0d1117&height=80&fontSize=70&font=Orbitron&glitch=1" alt="glitch title" />
 
-<!-- =====  SUB-TITLE WITH TYPING  ===== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2500&pause=800&color=00ffff&center=true&vCenter=true&width=700&lines=Frontend+Alchemist;React+⚛️+Next.js+▲+Tailwind+🌊;Reality+Rendering+in+Progress...;Always+Learning+🌱+Always+Building+🔥" alt="Typing sub" />
 
 </div>
 
@@ -26,13 +24,7 @@
 
 ---
 
-<!-- =====  3-D FLOATING AVATAR (WEBGL)  ===== -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IHSAN-ANWAR/IHSAN-ANWAR/blob/main/avatar-3d-loop.gif" />
-    <img src="https://github.com/IHSAN-ANWAR/IHSAN-ANWAR/blob/main/avatar-3d-loop.gif" width="340" alt="3-D avatar floating in neon space" />
-  </picture>
-</div>
+
 
 ---
 
@@ -71,10 +63,6 @@
         <br><sub>Tailwind</sub>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=threejs" width="65" style="filter: drop-shadow(0 0 6px #ff4790);">
-        <br><sub>Three.js</sub>
-      </td>
-      <td align="center">
         <img src="https://skillicons.dev/icons?i=vercel" width="65" style="filter: drop-shadow(0 0 6px #fff);">
         <br><sub>Vercel</sub>
       </td>
@@ -90,6 +78,7 @@
 <div align="center">
 
 ![Meta Front-End](https://img.shields.io/badge/Meta-Front--End%20Developer-066eff?style=flat-square&logo=coursera&logoColor=white)
+
 ![IELTS](https://img.shields.io/badge/IELTS-Preparation-ff4790?style=flat-square&logo=coursera&logoColor=white)
 
 </div>
