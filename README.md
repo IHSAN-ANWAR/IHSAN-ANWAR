@@ -18,10 +18,10 @@
 
 ---
 
-## &lt;div align="center"&gt; ⚛️ About Me &lt;/div&gt;
+## ⚛️ About Me
 
-&gt; &lt;span style="color:#ff4790;font-family:Share Tech Mono"&gt;“Discipline never negotiates.”&lt;/span&gt;  
-&gt; 🚀 *Day one or one day — your choice.*
+&gt; **“Discipline never negotiates.”**  
+&gt; *Day one or one day — your choice.*
 
 - 🎓 BSCS student at **Virtual University of Pakistan**  
 - ⚡ Building **blazing-fast, 60 fps** UIs with React & Next.js  
