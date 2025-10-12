@@ -1,6 +1,15 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  D A R K - M O D E   O N L Y   |   L I G H T   W I L L   B U R N     ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          fill="#00ffff" font-family="Share Tech Mono" font-size="18">
+      D A R K - M O D E  O N L Y  |  L I G H T  W I L L  B U R N
+    </text>
+  </svg>
+</div>
+
 
 <div align="center">
 
