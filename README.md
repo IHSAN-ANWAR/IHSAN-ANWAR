@@ -17,26 +17,35 @@
 </div>
 
 ---
-## <div align="center"> ⚛️ About Me </div>
-
-> <span style="color:#ff4790; font-family:'Share Tech Mono';">“Discipline isn’t a mood — it’s a lifestyle.”</span>  
-> 🚀 *Every line of code is a step closer to mastery.*
-
-- 🎓 BSCS student at **Virtual University of Pakistan**  
-- ⚡ Crafting **high-performance, smooth 60 fps** interfaces with React & Next.js  
-- 🧠 Turning ideas into motion using **Framer Motion** for fluid animations  
-- 🎨 Designing responsive, modern UIs with **Tailwind CSS**  
-- 🌱 Exploring the backend world — **Node.js**, **Prisma**, and **PostgreSQL**  
-- 💪 Balancing code, creativity, and consistency — one project at a time  
-- 🔭 *Learning. Building. Evolving. Every single day.*
-
-
+## ⚛️ <div align="center"> About Me </div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vercel,git,github,vscode" height="40" />
+> 🩷 *“Discipline isn’t a mood — it’s a lifestyle.”*  
+> 🚀 *Every line of code is a step closer to mastery.*
 
 </div>
+
+---
+
+- 🎓 BSCS student at **Virtual University of Pakistan**  
+- ⚡ Crafting **high-performance, smooth 60 fps** interfaces with **React** & **Next.js**  
+- 🧠 Breathing life into pixels using **Framer Motion**  
+- 🎨 Building **responsive, aesthetic** layouts with **Tailwind CSS**  
+- 🌱 Diving deeper into the **backend** — *Node.js, Prisma & PostgreSQL*  
+- 💪 Balancing **discipline, design, and development**  
+- 🔭 *Always learning. Always improving.*
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack  
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vercel,git,github,vscode&theme=dark" height="45" />
+
+</div>
+
 
 ---
 
