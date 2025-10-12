@@ -17,12 +17,13 @@
 </div>
 
 ---
-## ⚛️ <div align="center"> About Me </div>
+##  <div align="center">⚛️ About Me </div>
 
 <div align="center">
 
-> 🩷 *“Discipline isn’t a mood — it’s a lifestyle.”*  
-> 🚀 *Every line of code is a step closer to mastery.*
+> ♻ *“Discipline never negotiates.”*  
+> 🚀 *Day one or one day — your choice.*
+
 
 </div>
 
