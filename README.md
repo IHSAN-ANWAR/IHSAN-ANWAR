@@ -26,7 +26,7 @@
 - 🎓 BSCS student @ **Virtual University of Pakistan**  
 - ⚡ Crafting **60 fps** UIs with React & Next.js  
 - 🧪 Animating with **Framer Motion** + **Next.js**  
-- 🌱 Currently **levelling up backend**  
+- 🌱 Currently **levelling up backend**
 
 ---
 
@@ -34,9 +34,13 @@
 
 <div align="center">
 
-| <sub>Next.js</sub> | <sub>React</sub> | <sub>Tailwind</sub> | <sub>Framer</sub> | <sub>Vercel</sub> |
-|:------------------:|:----------------:|:-------------------:|:-----------------:|:-----------------:|
-| `▲` | `⚛️` | `🌊` | `🪄` | `⚡` |
+| Tech | Logo |
+|------|------|
+| **Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /> |
+| **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> |
+| **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /> |
+| **Framer Motion** | <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="40" /> |
+| **Vercel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" /> |
 
 </div>
 
@@ -44,16 +48,16 @@
 
 ## <div align="center"> 🧰 Core Skills </div>
 
-| **Essential** | **Clear** |
-|---------------|-----------|
-| **HTML5** | Semantic markup, accessibility, SEO basics |
-| **CSS3** | Flexbox, Grid, custom properties, media queries |
-| **JavaScript (ES6+)** | Promises, async/await, destructuring, modules |
-| **React 18** | Hooks, Context, Suspense, React Router |
-| **Next.js 14** | App Router, ISR, SSR, SSG, API routes |
-| **Tailwind CSS** | Utility-first workflow, JIT mode, dark-mode |
-| **Framer Motion** | Gestures, page transitions, scroll-triggered animations |
-| **Vercel** | Zero-config deploys, preview URLs, env vars |
+| **Technology** | **Expertise** |
+|----------------|----------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> **HTML5** | Semantic markup, accessibility, SEO basics |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> **CSS3** | Flexbox, Grid, custom properties, media queries |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript (ES6+)** | Promises, async/await, destructuring, modules |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React 18** | Hooks, Context, Suspense, React Router |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/> **Next.js 14** | App Router, ISR, SSR, SSG, API routes |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="25"/> **Tailwind CSS** | Utility-first workflow, JIT mode, dark-mode |
+| <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="25"/> **Framer Motion** | Gestures, page transitions, scroll-triggered animations |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="25"/> **Vercel** | Zero-config deploys, preview URLs, env vars |
 
 ---
 
