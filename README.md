@@ -11,21 +11,7 @@
 
 <div align="center">
 
-<!-- =====  GLITCH TITLE (inline SVG)  ===== -->
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="60" viewBox="0 0 700 60">
-  <style>
-    text{font-family:"Share Tech Mono",monospace;font-size:42px;fill:#00ffff;}
-    .g{animation:glitch 1.5s infinite;}
-    @keyframes glitch{
-      0%,100%{transform:translate(0)}
-      20%{transform:translate(-2px,2px)}
-      40%{transform:translate(-2px,-2px)}
-      60%{transform:translate(2px,2px)}
-      80%{transform:translate(2px,-2px)}
-    }
-  </style>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="g">IHSAИ_AИWAR</text>
-</svg>
+
 
 <!-- =====  TYPING SUB  ===== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&pause=800&color=00ffff&center=true&vCenter=true&width=700&lines=Frontend+Alchemist;React+⚛️+Next.js+▲+Tailwind+🌊;Always+Learning+🌱+Always+Building+🔥" alt="Typing">
