@@ -19,15 +19,17 @@
 ---
 ## <div align="center"> ⚛️ About Me </div>
 
-> <span style="color:#ff4790; font-family:'Share Tech Mono';">“Discipline never negotiates.”</span>  
-> 🚀 *Day one or one day — your choice.*
+> <span style="color:#ff4790; font-family:'Share Tech Mono';">“Discipline isn’t a mood — it’s a lifestyle.”</span>  
+> 🚀 *Every line of code is a step closer to mastery.*
 
 - 🎓 BSCS student at **Virtual University of Pakistan**  
-- ⚡ Building **blazing-fast, 60 fps** UIs with React & Next.js  
-- 🧪 Breathing life into pixels with **Framer Motion** micro-interactions  
-- 🎨 Pixel-perfect, responsive layouts powered by **Tailwind CSS**  
-- 🌱 Expanding to the full stack — **Node**, **Prisma**, **PostgreSQL**  
-- 🔭 Always learning, always shipping, always improving
+- ⚡ Crafting **high-performance, smooth 60 fps** interfaces with React & Next.js  
+- 🧠 Turning ideas into motion using **Framer Motion** for fluid animations  
+- 🎨 Designing responsive, modern UIs with **Tailwind CSS**  
+- 🌱 Exploring the backend world — **Node.js**, **Prisma**, and **PostgreSQL**  
+- 💪 Balancing code, creativity, and consistency — one project at a time  
+- 🔭 *Learning. Building. Evolving. Every single day.*
+
 
 
 <div align="center">
