@@ -17,19 +17,17 @@
 </div>
 
 ---
+## &lt;div align="center"&gt; ⚛️ About Me &lt;/div&gt;
 
-## <div align="center"> ⚛️ About Me </div>
+&gt; &lt;img src="https://img.shields.io/badge/“Discipline never negotiates.”-ff4790?style=flat-square&logo=quotemarks&logoColor=white" alt="quote"&gt;  
+&gt; 🚀 *Day one or one day — your choice.*
 
-> <span style="color:#ff4790;font-family:Share Tech Mono">“Discipline never negotiates.”</span>  
-> 🚀 *Day one or one day — your choice.*
-
-- 🎓 BSCS student at **Virtual University of Pakistan**  
-- ⚡ Building **blazing-fast, 60 fps** UIs with React & Next.js  
-- 🧪 Breathing life into pixels with **Framer Motion** micro-interactions  
-- 🎨 Pixel-perfect, responsive layouts powered by **Tailwind CSS**  
-- 🌱 Expanding to the full stack — **Node**, **Prisma**, **PostgreSQL**  
+- 🎓 BSCS student at **Virtual University of Pakistan**
+- ⚡ Building **blazing-fast, 60 fps** UIs with React & Next.js
+- 🧪 Breathing life into pixels with **Framer Motion** micro-interactions
+- 🎨 Pixel-perfect, responsive layouts powered by **Tailwind CSS**
+- 🌱 Expanding to the full stack — **Node**, **Prisma**, **PostgreSQL**
 - 🔭 Always learning, always shipping, always improving
-
 
 <div align="center">
 
