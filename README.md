@@ -31,8 +31,8 @@
 
 - 🎓 BSCS student @ **Virtual University of Pakistan**  
 - ⚡ Crafting **60 fps** UIs with React & Next.js  
-- 🧪 Animating with **Framer Motion** + **Vanilla JS**  
-- 🌱 Currently **levelling up backend** (Node, Prisma, PostgreSQL)
+- - 🧪 Animating with **Framer Motion** + **Next.js** 
+- 🌱 Currently **levelling up backend** 
 
 ---
 
