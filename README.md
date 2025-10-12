@@ -33,8 +33,8 @@
 - ⚡ Crafting **high-performance, smooth 60 fps** interfaces with **React** & **Next.js**  
 - 🧠 Breathing life into pixels using **Framer Motion**  
 - 🎨 Building **responsive, aesthetic** layouts with **Tailwind CSS**  
-- 🌱 Diving deeper into the **backend** — *Node.js, Prisma & PostgreSQL*  
-- 💪 Balancing **discipline, design, and development**  
+- 🌱 Diving deeper into the **backend**
+- 💪 Balancing **discipline, design and development**  
 - 🔭 *Always learning. Always improving.*
 
 ---
