@@ -31,7 +31,7 @@
 - 🎓 BSCS student at **Virtual University of Pakistan**  
 - ⚡ Crafting **high-performance, smooth 60 fps** interfaces with **React** & **Next.js**  
 - 🧠 Breathing life into pixels using **Framer Motion**  
-- 🎨 Building **responsive, aesthetic** layouts with **Tailwind CSS**  
+- 🎨 Building **responsive, aesthetic** layouts.
 - 🌱 Diving deeper into the **backend**
 - 💪 Balancing **discipline, design and development**  
 - 🔭 *Always learning. Always improving.*
