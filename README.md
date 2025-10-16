@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- =====  TYPING SUB  ===== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2500&pause=800&color=00ffff&center=true&vCenter=true&width=700&lines=Frontend+Alchemist;React+⚛️+Next.js+▲+Tailwind+🌊;Always+Learning+🌱+Always+Building+🔥" alt="Typing">
 
 </div>
