@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vercel,git,github,vscode&theme=dark" height="45" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nextjs,tailwind,vercel,git,github,vscode&theme=dark" height="45" />
 
 </div>
 
